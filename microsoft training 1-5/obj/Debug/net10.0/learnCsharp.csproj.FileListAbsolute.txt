@@ -1,0 +1,14 @@
+C:\Users\linne\dev\learnCsharp\bin\Debug\net10.0\learnCsharp.exe
+C:\Users\linne\dev\learnCsharp\bin\Debug\net10.0\learnCsharp.deps.json
+C:\Users\linne\dev\learnCsharp\bin\Debug\net10.0\learnCsharp.runtimeconfig.json
+C:\Users\linne\dev\learnCsharp\bin\Debug\net10.0\learnCsharp.dll
+C:\Users\linne\dev\learnCsharp\bin\Debug\net10.0\learnCsharp.pdb
+C:\Users\linne\dev\learnCsharp\obj\Debug\net10.0\learnCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linne\dev\learnCsharp\obj\Debug\net10.0\learnCsharp.AssemblyInfoInputs.cache
+C:\Users\linne\dev\learnCsharp\obj\Debug\net10.0\learnCsharp.AssemblyInfo.cs
+C:\Users\linne\dev\learnCsharp\obj\Debug\net10.0\learnCsharp.csproj.CoreCompileInputs.cache
+C:\Users\linne\dev\learnCsharp\obj\Debug\net10.0\learnCsharp.dll
+C:\Users\linne\dev\learnCsharp\obj\Debug\net10.0\refint\learnCsharp.dll
+C:\Users\linne\dev\learnCsharp\obj\Debug\net10.0\learnCsharp.pdb
+C:\Users\linne\dev\learnCsharp\obj\Debug\net10.0\learnCsharp.genruntimeconfig.cache
+C:\Users\linne\dev\learnCsharp\obj\Debug\net10.0\ref\learnCsharp.dll
